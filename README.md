@@ -6,3 +6,4 @@
 22/7 Logo creating method- we first created cirlce for music app and filled colour and then we added tiangle in it. we had a view on various colour combinations. we saw about mesh tool, which helps to merge the colour smoothly. take away: research abt the previous logos.
 24/7 we sketched login sign up and welcome page... colour combinations- must to use contrasting colour combinations, grey is not for positive vibe... 
 25/7 we signed in figma application with the given id and password.. and saw outline feactures of the application, like how to create frame, object, and how to use pen and selection option.
+27/7 we sketched login page in a4 and used that in figma... we 1st created frame and adjusted it for iphone and then added rectangle for user name, password, then we designed signup page... atlast we linked logo page log in, and signup page using a prototype. finaly also saw about gradient tool in figma.
