@@ -8,3 +8,4 @@
 25/7 we signed in figma application with the given id and password.. and saw outline feactures of the application, like how to create frame, object, and how to use pen and selection option.
 27/7 we sketched login page in a4 and used that in figma... we 1st created frame and adjusted it for iphone and then added rectangle for user name, password, then we designed signup page... atlast we linked logo page log in, and signup page using a prototype. finaly also saw about gradient tool in figma.
 28/7 we saw about plugins- from where we can select objects... and then we sketch few pages of whatsapp.
+31/7 in todays class we saw about prototype.. we linked two frames we also saw about different navigation opt. to link to frame, select the frame and click on the plus icon then select the type of transition.. for a particular text, click on the text and , click on plus icon then merge the pages using arrow. today we are creating clone gmail.
