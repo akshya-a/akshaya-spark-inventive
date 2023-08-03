@@ -10,3 +10,4 @@
 28/7 we saw about plugins- from where we can select objects... and then we sketch few pages of whatsapp.
 31/7 in todays class we saw about prototype.. we linked two frames we also saw about different navigation opt. to link to frame, select the frame and click on the plus icon then select the type of transition.. for a particular text, click on the text and , click on plus icon then merge the pages using arrow. today we are creating clone gmail.
 1/8 in today's class we used gmail frames and added prototype for each frame... so basicly we created a logo page, log in, singup page,home page,we started with logo page and we linked it with signin page then we selected sign up txt and linked it with sign up page, then we selected both logo and sing up page and linked it with home page.lastly we had a detail view on pluggins and saw the application of morph.
+2/7 in today's class we disscused about yesterdays assignment, we saw about allignments and pluggins.
